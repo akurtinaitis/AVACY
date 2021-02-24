@@ -1,5 +1,6 @@
 #INCLUDE "PROTHEUS.CH"
 
+// Fontaneli mexeu
 User Function A410CONS()
  
 Local aButtons:={}
