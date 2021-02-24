@@ -15,7 +15,7 @@
     @author Leandro Schumann Thomaz
     @since 11/02/2021
     @version P12
-    @obs Uso AVACY CALÇADOS 
+    @obs Uso AVACY CALÇADOS LTDA 
 /*/
 
 User Function BALLOTE()
