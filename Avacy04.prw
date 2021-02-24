@@ -34,12 +34,16 @@ User Function Avacy04()
 		
 		ACTIVATE MSDIALOG oDlg CENTERED ON INIT (nOpca := 0, .T.)	// Zero nOpca caso
 		//	para saida com ESC
-
+		
+		
+		// Quando escolhemos a Opcao 1
 		If nOpca == 1
 			If nRadio == 1
 				XCONPRO()//Consulta por Produto
 			ElseIf nRadio == 2
 				XCONGRD() //Consulta por GTIN14	
+			ElseIf nRadio == 3
+				// Futuro (Fazendo nada agora)
 			EndIf
 		EndIf
 
