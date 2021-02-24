@@ -210,6 +210,14 @@ RestArea(aArea)
 Return
 
 
+// Funcao para jogar na tela oba
+Static Function Oba()
+
+	Alert("Oba")
+
+Return()
+
+
 User Function AvcMsg(nDados, nInclu, aProdutos)
 
 	Local lRetMens             := .F.
