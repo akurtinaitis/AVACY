@@ -1,5 +1,6 @@
 #include "fileio.ch"
 
+// Funcao principal
 user function AVCR01(cORIGEM)
  
 Local cHtml   		:= ""
